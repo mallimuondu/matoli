@@ -25,7 +25,7 @@ SECRET_KEY = 'i%6%3)a&s^7k)n)_!1+9m7q*t=8odu5hr_5fpo30px8wmjfd=g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [ '127.0.0.1']
+ALLOWED_HOSTS = [ '127.0.0.1', 'malli-to-do.herokuapp.com']
 
 
 # Application definition
